@@ -536,3 +536,8 @@ footer p {
     vertical-align: middle;
     margin-right: 8px;
 }
+
+.resume-btn{
+  display: inline-block;
+  margin-bottom: 12px;
+}
